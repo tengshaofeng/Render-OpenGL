@@ -13,3 +13,6 @@ python test_render3.py
 ## demo2:
 
 python opengl_render_tbq.py
+
+
+## result
