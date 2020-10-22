@@ -17,3 +17,5 @@ python opengl_render_tbq.py
 
 ## result
 
+![result1](https://github.com/tengshaofeng/Render-OpenGL/blob/master/result/fangbb/tex.jpg)
+![result](https://github.com/tengshaofeng/Render-OpenGL/blob/master/result/output0.png)
