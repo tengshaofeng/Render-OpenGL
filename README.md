@@ -2,6 +2,9 @@
 render a multiview image given 3d obj and texture image using OpenGL
 
 tex.jpg is the texture image, 3d obj file is reconstructed face from tex.jpg
+
+## python version
+
 Python 3.7
 ## demo1:
 
